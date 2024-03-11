@@ -38,6 +38,16 @@ body {
     font-size: 0.8em;
 }
 
+
+
+
+
 img {
     height: 5%;
+}    
+
+.foot {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
 }
