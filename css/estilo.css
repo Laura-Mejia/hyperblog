@@ -36,3 +36,9 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+.foot {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-weight: bold;
+}
