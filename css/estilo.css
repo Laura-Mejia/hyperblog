@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: antiquewhite;
 }
 
 #container {
@@ -35,4 +36,8 @@ body {
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+img {
+    height: 5%;
 }
